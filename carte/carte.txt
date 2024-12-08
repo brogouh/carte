@@ -1,0 +1,10 @@
+# Carte 3x4
+C - 3 - 4
+# Montagnes
+M - 1 - 1
+M - 2 - 2
+# Trésors
+T - 0 - 3 - 2
+T - 1 - 3 - 1
+# Aventuriers
+A - Lara - 1 - 1 - S - AADADAGGA
